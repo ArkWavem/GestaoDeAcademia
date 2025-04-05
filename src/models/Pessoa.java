@@ -1,7 +1,6 @@
 package models;
 
-abstract class Pessoa {
-
+public abstract class Pessoa {
     protected String nomePessoa;
     protected int idadePessoa;
 
@@ -19,5 +18,4 @@ abstract class Pessoa {
     }
 
     public abstract String getDescricao();
-
 }

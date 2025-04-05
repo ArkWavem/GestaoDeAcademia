@@ -17,8 +17,8 @@ public class Academia {
 
     public void listarPessoas() {
         System.out.println("Lista de Pessoas na Academia:");
-        for (Pessoa pessoasDaLista : pessoas) {
-            System.out.println(pessoasDaLista.getDescricao());
+        for (Pessoa pessoa : pessoas) {
+            System.out.println(pessoa.getDescricao());
         }
     }
 }

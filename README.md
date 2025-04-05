@@ -12,3 +12,11 @@
 - **Encapsulamento**: Os atributos são privados e acessados por métodos públicos.
 - **Polimorfismo**: O método `getDescricao()` é sobrescrito para retornar informações específicas de `Cliente` e `Instrutor`.
 - **Composição**: A `Academia` contém uma lista de `Pessoa`, que pode ser `Cliente` ou `Instrutor`.
+
+## Classe Pessoa (Herança Aplicada)
+
+## Classe Cliente (Herança e Encapsulamento)
+
+## Classe Instrutor (Herança e Encapsulamento)
+
+## Classe Academia (Composição e Polimorfismo)
